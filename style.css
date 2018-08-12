@@ -1,0 +1,99 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-size: 14px 
+  }
+@media (min-width: 768px) {
+* {
+    font-size: 16px;
+  }
+}
+nav {
+  background-color:#66CDAA;
+}
+.breadcrumb {
+  background-color:#fafafa;
+}
+.tructitle {
+  border-style: solid;
+  border-color: #66CDAA;
+  border-width: 4px;
+  padding: 10px;
+  background-color: white;
+  height: 80px;
+  width: 500px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  margin:0 auto;
+  top: 65px;
+}
+
+.carsize {
+  max-height: 500px;
+}
+
+.fa {
+  padding: 20px;
+  width: 55px;
+  height: 55px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #66CDAA;
+  color: white;
+}
+
+.fa:hover {
+  opacity: 0.5;
+  color: white;
+}
+
+.carousel-caption {
+  background-color: grey;
+  opacity: 0.8;
+}
+
+
+.trucbutton {
+  border: none;
+  border-radius: 0.25em;
+  background-color: #66CDAA;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
+
+.trucbutton:hover {
+  background-color: #66CDAA;
+  opacity: 0.9;
+}
+
+#post-img {
+  max-height: 300px;
+}
+
+.postpoem {
+  border-style: solid;
+  border-color: #66CDAA;
+  border-width: 5px 5px 5px 5px;
+}
+
+nav {
+  position:fixed;
+}
+
+.footer {
+  background-color:#333;
+}
+
+.footer p {
+  color:rgba(255,255,255,0.7);
+}
