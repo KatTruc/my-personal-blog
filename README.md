@@ -6,24 +6,24 @@ Time spent: **~10** hours spent in total
 
 The following **required** functionalities are completed:
 
-[x] Responsive for any screen (desktop, laptop, tablet, phone) with Bootstrap.
-[x] Have at least 2 pages:
+* [x] Responsive for any screen (desktop, laptop, tablet, phone) with Bootstrap.
+* [x] Have at least 2 pages:
 1 main overview page (index.html) like the Bootstrap blog example or ideas above.
 1 blog page with at least a picture and a paragraph. If you don't have any picture, you can use https://placeimg.com/ for img and https://www.lipsum.com/ for dummy text.
-[x] Use Bootstrap grid system (container > row > col) to layout and align content.
-[x] Navigation on header and social icons (twitter, instagram, github, linkedin, facebook, etc.) on footer.
-[x] Carousel for the banner image (example: [activello]https://colorlib.com/activello/ or dazzling)
-[x] At least 2 cards for featured posts.
+* [x] Use Bootstrap grid system (container > row > col) to layout and align content.
+* [x] Navigation on header and social icons (twitter, instagram, github, linkedin, facebook, etc.) on footer.
+* [x] Carousel for the banner image (example: [activello]https://colorlib.com/activello/ or dazzling)
+* [x] At least 2 cards for featured posts.
 
 The following **optional** features are implemented:
-[x] Add a breadcrumb on the child page to easily go back to the main page.
-[x] Include a 'Get in touch' form with at least name, email and message fields for guests to submit enquiries.
-[x] Add a modal component (e.g. when clicing on a button or a hyperlink).
-[x] Add a dropdown on top navigation.
+* [x] Add a breadcrumb on the child page to easily go back to the main page.
+* [x] Include a 'Get in touch' form with at least name, email and message fields for guests to submit enquiries.
+* [x] Add a modal component (e.g. when clicing on a button or a hyperlink).
+* [x] Add a dropdown on top navigation.
 
 The following **additional** features are implemented:
 
-[x] Add a reply form, "recent posts" column and social media icons on the child page
+* [x] Add a reply form, "recent posts" column and social media icons on the child page
 
 ## Video Walkthrough
 
